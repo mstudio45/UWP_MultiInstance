@@ -1,11 +1,10 @@
 # UWP_MultiInstance
-Fixed and improved UWP Multi Instance 
-If you find any issue report it inside "Issues" tab in this repo.
+Fixed and improved UWP Multi Instance<br>
+If you find any issue report it inside "Issues" tab in this repo.<br>
+If you want long custom names, make sure the path where the EXE is located isn't too long.<br>
 
 ## Info
-You cannot have long names due to one error. im trying to fix it.
-If you get Manifest error, just try again.
-
+If you get Manifest error, just try again.<br>
 
 # TODO
 Fix Win32 Long Path error (windows :/)
