@@ -11,3 +11,4 @@ If you get Manifest error, just try again.<br>
 
 # TODO
 Fix Win32 Long Path error (windows :/)
+Fix custom names
