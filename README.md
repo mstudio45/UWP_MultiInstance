@@ -10,5 +10,5 @@ If you want long custom names, make sure the path where the EXE is located isn't
 If you get Manifest error, just try again.<br>
 
 # TODO
-Fix Win32 Long Path error (windows :/)
-Fix custom names
+Fix Win32 Long Path error (windows :/)<br>
+~~Fix custom names~~ (v1.1+)
